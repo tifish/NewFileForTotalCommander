@@ -14,7 +14,7 @@
 [em_CreateNew]
 cmd=NewFile
 menu=New File
-param="%P"
+param=""%P"
 path=%COMMANDER_PATH%\Tools\NewFile
 ```
 
